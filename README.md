@@ -3,7 +3,7 @@
      <a href="https://github.com/KennedyRyan18">
     <img align="right" height="300em" src="https://media4.giphy.com/media/116n6kcHaFbw3e/giphy.gif?cid=790b7611a95b189a95958e16a6c9ac5c0e1e1d973fcf42ff&rid=giphy.gif&ct=g">
    <div>
-      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KennedyRyan18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=KennedyRyan18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
      <div>
       <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
