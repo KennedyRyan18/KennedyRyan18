@@ -1,13 +1,7 @@
-### Hi my name is Kennedy, I'am a Develop Front-end 👋
-
-  <div align="right">
-    <img height="300em" src="https://media4.giphy.com/media/116n6kcHaFbw3e/giphy.gif?cid=790b7611a95b189a95958e16a6c9ac5c0e1e1d973fcf42ff&rid=giphy.gif&ct=g"
-  </div>
-  
-  <div align="left">
-  <a href="https://github.com/KennedyRyan18">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=KennedyRyan18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennedyRyan18&layout=demot&langs_count=7&theme=dracula"/>
+  <div align="center">
+  <h1>Hi my name is Kennedy, I'am a Develop Front-end 👋</h1>
+     <a href="https://github.com/KennedyRyan18">
+    <img height="290em" src="https://media4.giphy.com/media/116n6kcHaFbw3e/giphy.gif?cid=790b7611a95b189a95958e16a6c9ac5c0e1e1d973fcf42ff&rid=giphy.gif&ct=g">
 </div>
 <!--
 **KennedyRyan18/KennedyRyan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
